@@ -5,12 +5,11 @@ CONFIG -= qt
 
 SOURCES += \
         car.cpp \
-        chef.cpp \
         engine.cpp \
+        main.cpp \
         wheel.cpp
 
 HEADERS += \
     car.h \
-    chef.h \
     engine.h \
     wheel.h
