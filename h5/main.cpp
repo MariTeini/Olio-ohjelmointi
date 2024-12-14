@@ -36,7 +36,7 @@ objB.setInfo("Olion B asettama info");
 AssosiationA objAss(objB);
 objAss.setBinfo("Olion objAss asettama info");
 
-cout<<"Assosiaatio esimerkki:"<<endl;
+cout<<"Assosiaatio esimerkki: "<<endl;
 cout<<"objB: "<<objB.getInfo()<<endl;
 cout<<"objAss: "<<objAss.getBinfo()<<endl;
 
